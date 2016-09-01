@@ -1,0 +1,8 @@
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\bin\Debug\Server.exe.config
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\bin\Debug\Server.exe
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\bin\Debug\Server.pdb
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\bin\Debug\BasicWebProgramming.exe
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\bin\Debug\BasicWebProgramming.pdb
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\obj\Debug\Server.exe
+C:\Users\Worldfavor2\documents\visual studio 2013\Projects\BasicWebProgramming\Server\obj\Debug\Server.pdb
